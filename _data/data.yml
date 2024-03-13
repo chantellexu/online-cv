@@ -49,7 +49,7 @@ career-profile:
     summary: |
       Hi! I'm in my second year of Biomedical Engineering at UBC. 
       
-      Apart from engineering, my interests include <strong>politics</strong>, <strong>theology</strong>, and <strong>baking</strong> (I regularly make sourdough and cheesecake for my friends).
+      Apart from engineering, my interests include <strong>politics</strong>, <strong>theology</strong>, and <strong>baking</strong> (I regularly make sourdough bread and cheesecake for my friends).
 education:
     title: Education
     info:
@@ -90,16 +90,19 @@ experiences:
         company: iGEM University of Calgary
         details: |
           The summer going into university I volunteered for a U of C student research team. 
-          My biggest contribution was my study of the different ways to make bacteria cellulose transparent — industry experts 
-          that the team consulted said it was an essential part of the project (we were designing compostable fruit packaging). 
+          My biggest contribution was my study of the different ways to make bacteria cellulose transparent; industry experts 
+          said it was an essential part of the project (we were using bacteria cellulose to create compostable fruit packaging). 
           
           The team won the <a href="https://jamboree.igem.org/2022"><u>iGEM 2022 award</u><a> for Best Sustainable Development Impact. 
 
-          Wet and dry lab skills I developed include: 
+          Wet lab skills I developed include: 
           - Preparing media
           - Autoclaving
           - Calibrating pipettes
+
+          Dry lab skills I was introduced to include:
           - MATLAB
+          - Python
           - 3D printing (CAD)
           
 
