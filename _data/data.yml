@@ -44,164 +44,104 @@ sidebar:
     #       link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Hi! I'm in my second year of Biomedical Engineering at the University of British Columbia. 
-
-      Apart from engineering, my interests include <strong>Politics</strong>, <strong>Theology</strong>, and </strong>Baking</strong> (e.g. sourdough and cheesecake).
+      Hi! I'm in my second year of Biomedical Engineering at UBC. 
+      
+      Apart from engineering, my interests include <strong>politics</strong>, <strong>theology</strong>, and <strong>baking</strong> (I regularly make sourdough and cheesecake for my friends).
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BASc in Biomedical Engineering
+        university: University of British Columbia
+        time: 2022 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+        
 experiences:
-    title: Experiences
+    title: Technical Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: UBC Engineering Design Team
+        time: 2022 - Present
+        company: Multiple Sclerosis to Movement
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Multiple Sclerosis to Movement (M2M) is a project within the Biomedical Engineering Student Team (BEST) at UBC.
+           
+          Our team is working on designing a glove that sends data to 
+          an app with mobile games we're designing to enhance the MS rehabilitation process of the hand; 
+          the journey through physical therapy can be emotionally challenging, and we aim to make the process a little more fun.
+          We will be entering the <a href="https://simoncoxcompetition.com/"><u>Simon Cox</u></a> competition this year.
+          
+          I am on the mechanical engineering sub-team, and am currently designing a box that uses a magnet system to automate
+          the removal and donning of the glove. 
+          
+          Techinical skills I've learned in during my role in BEST include:
+          - Woodworking
+          - Soldering
+          - Arduino
+          - Python
+          - Solidworks
+          
+          Softskills I've developped during my role include: teamwork, communication, problem-solving, adaptability, leadership, creativity, and critical thinking.
+
+
+      - role: Research Volunteer
+        time: 2022
+        company: iGEM University of Calgary
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          The summer going into university I volunteered for a U of C student research team. 
+          My biggest contribution was my study of different ways to make the bacteria cellulose transparent — industry experts 
+          that the team consulted said it was an essential part of the project (we were designing compostable fruit packaging). 
+          
+          The team won the <a href="https://jamboree.igem.org/2022"><u>iGEM 2022 award</u><a> for Best Sustainable Development Impact. 
+
+          Wet and dry lab skills I developped include: 
+          - Preparing media
+          - Autoclaving
+          - Calibrating pipettes
+          - MATLAB
+          - 3D printing (CAD)
+          
 
 certifications:
-      title: Certifications
+      title: Extracurriculars
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: UBC Conservatives Club
+          start: 2023
+          end: Present
+          organization: AMS
+          credentialid:
+          credentialurl: https://twitter.com/UBCCons
+          credentialname: Twitter (X)
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Summer of last year (2023) I decided that I wanted to start a club for
+            conservative students on campus...and then I found out we already had one (haha).
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+            It can feel lonely being a conservative student in Vancouver, but I've found such an
+            amazing community in the UBC Conservatives club. We mainly have two events: guest speakers and pub nights. 
+            
+            We also will participate in club days, hosting booths, which I have a ton of fun volunteering at. 
+            It's so important to engage with students (that are largely subjected to one kind of ideology)
+            and have important conversations about important stuff (western civilisation is depending on it).
+            <p>.</p>
+
+        - name: Classical Double Bass
           start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          end: Present
+          organization: RCM
+          credentialid: Level 10
+          credentialurl: 
+          credentialname:
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        - name: Minister's Youth Council (MYC)
+          start: 2019
+          end: 2020
+          organization: Alberta
+          credentialid: Minister Adriana LaGrange
+          credentialurl: 
+          credentialname:
+          details: |
+          
 
 publications:
     title: Publications
@@ -225,27 +165,5 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer:
