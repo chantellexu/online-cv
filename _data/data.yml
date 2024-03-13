@@ -17,6 +17,7 @@ sidebar:
     phone: 403 926 5188
     linkedin: chantellexu
     instagram: chantersxu
+    pdf: Chantelle Xu - Resume.pdf
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -64,24 +65,24 @@ experiences:
         time: 2022 - Present
         company: Multiple Sclerosis to Movement
         details: |
-          Multiple Sclerosis to Movement (M2M) is a project within the Biomedical Engineering Student Team (BEST) at UBC.
+          Multiple Sclerosis to Movement (M2M) is a project within the Biomedical Engineering Student Team (BEST).
            
-          Our team is working on designing a glove that sends data to 
-          an app with mobile games we're designing to enhance the MS rehabilitation process of the hand; 
+          Our team is designing a glove that sends data to 
+          an app with games that enhance the MS rehabilitation process of the hand; 
           the journey through physical therapy can be emotionally challenging, and we aim to make the process a little more fun.
           We will be entering the <a href="https://simoncoxcompetition.com/"><u>Simon Cox</u></a> competition this year.
           
           I am on the mechanical engineering sub-team, and am currently designing a box that uses a magnet system to automate
           the removal and donning of the glove. 
           
-          Techinical skills I've learned in during my role in BEST include:
+          Technical skills I've learned in during my role in BEST include:
           - Woodworking
           - Soldering
           - Arduino
           - Python
           - Solidworks
           
-          Softskills I've developped during my role include: teamwork, communication, problem-solving, adaptability, leadership, creativity, and critical thinking.
+          Soft skills I've developed during my role include: teamwork, communication, problem-solving, adaptability, leadership, creativity, and critical thinking.
 
 
       - role: Research Volunteer
@@ -89,12 +90,12 @@ experiences:
         company: iGEM University of Calgary
         details: |
           The summer going into university I volunteered for a U of C student research team. 
-          My biggest contribution was my study of different ways to make the bacteria cellulose transparent — industry experts 
+          My biggest contribution was my study of the different ways to make bacteria cellulose transparent — industry experts 
           that the team consulted said it was an essential part of the project (we were designing compostable fruit packaging). 
           
           The team won the <a href="https://jamboree.igem.org/2022"><u>iGEM 2022 award</u><a> for Best Sustainable Development Impact. 
 
-          Wet and dry lab skills I developped include: 
+          Wet and dry lab skills I developed include: 
           - Preparing media
           - Autoclaving
           - Calibrating pipettes
@@ -108,20 +109,21 @@ certifications:
         - name: UBC Conservatives Club
           start: 2023
           end: Present
-          organization: AMS
+          organization:
           credentialid:
-          credentialurl: https://twitter.com/UBCCons
-          credentialname: Twitter (X)
+          credentialurl:
+          credentialname:
           details: |
             Summer of last year (2023) I decided that I wanted to start a club for
-            conservative students on campus...and then I found out we already had one (haha).
+            conservative students on campus...and then I found out we already had one.
 
-            It can feel lonely being a conservative student in Vancouver, but I've found such an
-            amazing community in the UBC Conservatives club. We mainly have two events: guest speakers and pub nights. 
+            It can feel lonely being a conservative student in Vancouver, but the UBC Conservatives club
+            has introduced me to such an amazing community. We mainly have two events: guest speakers and pub nights. 
             
-            We also will participate in club days, hosting booths, which I have a ton of fun volunteering at. 
+            We also participate in club days, hosting booths, which I have a ton of fun volunteering at. 
             It's so important to engage with students (that are largely subjected to one kind of ideology)
-            and have important conversations about important stuff (western civilisation is depending on it).
+            and to have the conversations that most students aren't having (western civilisation is depending on it).
+            It's also so crucial for conservative students at UBC to know that they're not alone.
             <p>.</p>
 
         - name: Classical Double Bass
@@ -144,26 +146,25 @@ certifications:
           
 
 publications:
-    title: Publications
+    title: Fun Facts
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+        
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: I consume 20+ hours of conservative media a week.
+        link:
+        authors: 
+        conference: <p></p><em>Daily Wire, TPUSA, and other podcasts.</em>
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: I am currently an MC for Alpha at UBC this semester.
+        link: 
+        authors: 
+        conference: <p></p> <em>A few Christian fellowships and clubs on campus decided to host an Alpha together this term (we've had over 130 participants).</em>
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: I plan on pursuing law school.  
+        link:
+        authors:
+        conference:
 
 
 footer:
